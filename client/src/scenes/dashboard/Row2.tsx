@@ -162,7 +162,7 @@ const Row2 = () => {
       <DashboardBox gridArea="f">
         <BoxHeader title="Product Prices vs Expenses" sideText="+4%" />
         <ResponsiveContainer width="100%" height="100%">
-          <ScatterChart
+        <ScatterChart
             margin={{
               top: 20,
               right: 25,
