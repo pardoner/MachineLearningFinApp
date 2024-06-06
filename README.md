@@ -1,5 +1,5 @@
 # MachineLearningFinApp
-Deployed Site: https://machine-learning-fin-eecyvi3un-dylans-projects-9398e0fa.vercel.app/
+Deployed Site: [https://machine-learning-fin-eecyvi3un-dylans-projects-9398e0fa.vercel.app/](https://machine-learning-fin-app.vercel.app/)
 
 Finanseer is a full-stack finance dashboard application that provides a display of different charts evaluating revenue, transactions, and expenses. Go to the predictions page to see a regression line and observe the machine learning at work with the 'Show Predicted Revenue For Next Year' button. 
 
